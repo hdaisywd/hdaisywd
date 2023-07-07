@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://hdaisywd.github.io/" target="_blank"><img src="https://img.shields.io/badge/MyBlog-#222222?style=flag-square&logo=githubpages&logoColor=#222222"/></a>
+<a href="https://hdaisywd.github.io/" target="_blank"><img src="https://img.shields.io/badge/MyBlog-#222222?style=flat-square&logo=githubpages&logoColor=#222222"/></a>
 
