@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 <a href="https://hdaisywd.github.io/" target="_blank"><img src="https://img.shields.io/badge/MyBlog-f5f5dc?style=for-the-badge&logo=githubpages&logoColor=222222"/></a>
 <a href="https://www.instagram.com/dahhongee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-f5f5dc?style=for-the-badge&logo=f5f5dc&logoColor=E4405F"/></a>
+<a href="https://www.linkedin.com/in/dahee-hong-75b37b259/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-f5f5dc?style=for-the-badge&logo=linkedin&logoColor=#0A66C2"/></a>
