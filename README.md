@@ -45,6 +45,3 @@ Here are some ideas to get you started:
 
 ![hdaisywd's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdaisywd&show_icons=true&theme=radical)
 <br/>
-[![hdaisywd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joojae02&layout=compact&theme=dark)](https://wakatime.com/@hdaisywd)
-
- </div>
