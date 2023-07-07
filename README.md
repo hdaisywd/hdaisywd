@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/dahee-hong-75b37b259/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-f5f5dc?style=for-the-badge&logo=linkedin&logoColor=#0A66C2"/></a>
 [<img src="https://img.shields.io/badge/Gmail-f5f5dc?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:hdaisywd@gmail.com)
 
---------------------------------------------------
 
 📚  What I've learned so far !
 
@@ -38,12 +37,14 @@ Here are some ideas to get you started:
 
 --------------------------------------------------
 
-[![hdaisywd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joojae02&layout=compact&theme=dark)](https://wakatime.com/@hdaisywd)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hdaisywd)](https://solved.ac/hdaisywd)  
 <br/>
-![hdaisywd's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdaisywd&show_icons=true&theme=radical)
+<img src="http://mazandi.herokuapp.com/api?handle=hdaisywd&theme=warm"/>
 
 --------------------------------------------------
 
-<img src="http://mazandi.herokuapp.com/api?handle=hdaisywd&theme=warm"/>
+![hdaisywd's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdaisywd&show_icons=true&theme=radical)
+<br/>
+[![hdaisywd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joojae02&layout=compact&theme=dark)](https://wakatime.com/@hdaisywd)
 
  </div>
