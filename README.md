@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 <br/>
 <img src="http://mazandi.herokuapp.com/api?handle=hdaisywd&theme=warm"/>
 <br/><br/>
-![Leetcode Stats](https://leetcard.jacoblin.cool/hdaisywd)
 
 --------------------------------------------------
 
